@@ -2,7 +2,7 @@
 
 ## Brief Overview
 
-The inteneded purpose of this assingment is to create a series of random numbers, locate the nearest city via citipy mimdule and then perform API calls to get location, lodging and weather data to plan a trip.
+The inteneded purpose of this assingment is to create a series of random longitude and latitude pairs, locate the nearest cities via citipy momdule and then perform API calls to get location, lodging and weather data to plan a trip. 
 
 ![WeatherPy_map_markers](https://user-images.githubusercontent.com/31022640/114329186-9146d180-9af3-11eb-8779-32085d34d431.png)
 
